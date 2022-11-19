@@ -11,8 +11,8 @@
 <ul>Program dimulai dengan memasukkan library apa saja yang di butuhkan serta mendeklarasikan variabel-variabel yang diperlukan. Setelah semuanya siap lakukan setup pin di void setup(). Buat fungsi yang menjalankan fitur-fitur pada sistem diluar void setup() dan void loop(), seperti fungsi hitung, fungsi ultrasonik, fungsi ldr dan lain-lain. Fungsi-fungsi tersebut di panggil di dalam void loop(). Pada void loop() atur alur kerja program yang dibuat dengan memasukkan fungsi-fungsi yang dibuat dan perintah-perintah lainnya. Upload kode ke arduino dan sistem siap digunakan. </ul>
 
 ### Arsitektur Sistem
-<ul>Gambar dapat dilihat di direktori Arsitektur Sistem/Arsitektur Sistem.png</ul>
-
+<ul>Berikut ini Arsitektur dari Sistem yang kami buat</ul>
+<ul> <img src="/Arsitektur_Sistem/Arsitektur-Sistem.png" /> </ul>
 
 ### Cara Kerja
 1. Tekan tombol Push Button untuk memulai permainan
@@ -27,4 +27,6 @@
 4. Dapat menyalakan LED menyinari ketika gelap
 5. Permainan dapat memulai otomatis dengan menekan tombol push button kemudian mendeteksi gerakan pemain dengan sensor ultrasonic
 
-
+### Tampilan Alat
+<ul>Berikut ini Tampilan dari Alat yang Kami buat</ul>
+<ul> <img src="" /> </ul>
