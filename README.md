@@ -29,4 +29,9 @@
 
 ### Tampilan Alat
 <ul>Berikut ini Tampilan dari Alat yang Kami buat</ul>
-<ul> <img src="" /> </ul>
+<ul> 
+<div style="display: "flex">
+<img src="/Foto/img02.jpeg" style="width: 20rem" />
+<img src="/Foto/img01.jpeg" style="width: 20rem" />
+</div>
+</ul>
